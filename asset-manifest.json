@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crypto-monitoring/static/css/main.78dac1b5.chunk.css",
+    "main.js": "/crypto-monitoring/static/js/main.e18fc7d8.chunk.js",
+    "main.js.map": "/crypto-monitoring/static/js/main.e18fc7d8.chunk.js.map",
+    "runtime-main.js": "/crypto-monitoring/static/js/runtime-main.c48fdf03.js",
+    "runtime-main.js.map": "/crypto-monitoring/static/js/runtime-main.c48fdf03.js.map",
+    "static/js/2.7edbc7a3.chunk.js": "/crypto-monitoring/static/js/2.7edbc7a3.chunk.js",
+    "static/js/2.7edbc7a3.chunk.js.map": "/crypto-monitoring/static/js/2.7edbc7a3.chunk.js.map",
+    "index.html": "/crypto-monitoring/index.html",
+    "static/css/main.78dac1b5.chunk.css.map": "/crypto-monitoring/static/css/main.78dac1b5.chunk.css.map",
+    "static/js/2.7edbc7a3.chunk.js.LICENSE.txt": "/crypto-monitoring/static/js/2.7edbc7a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c48fdf03.js",
+    "static/js/2.7edbc7a3.chunk.js",
+    "static/css/main.78dac1b5.chunk.css",
+    "static/js/main.e18fc7d8.chunk.js"
+  ]
+}
